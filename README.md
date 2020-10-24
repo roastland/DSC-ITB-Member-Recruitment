@@ -1,11 +1,11 @@
 # Google Developers Product Exploration - Flutter
 ## Taufan Fajarama P R - 16520175
 
-The very first time I found out about FLutter was when I learn Dart (programming language for Flutter) on dicoding.com
+⚜ The very first time I found out about Flutter was when I learn Dart (programming language for Flutter) on dicoding.com
 
-Flutter is Google’s UI toolkit for building beautiful, natively compiled applications for mobile, web, and desktop from a single codebase.
+⚙ Flutter is Google’s UI toolkit for building beautiful, natively compiled applications for mobile, web, and desktop from a single codebase.
 
-Flutter can save time and effort by requiring only one codebase to develop applications on multiple platforms, instead of having to spend time creating separate codebases for each platform.
+⏳ Flutter can save time and effort by requiring only one codebase to develop applications on multiple platforms, instead of having to spend time creating separate codebases for each platform.
 
 ➕
 - Fast development, Flutter's hot reload helps you quickly and easily experiment, build UIs, add features, and fix bugs faster.
